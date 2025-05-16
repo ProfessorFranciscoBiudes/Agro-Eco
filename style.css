@@ -11,10 +11,11 @@ header {
   color: white;
   padding: 20px;
   text-align: center;
+  justify-content: space-around;
 }
 .logo{
-width: 480px;
-height: 480px;
+width: 280px;
+height: 280px;
 display: flex;
 }
 
